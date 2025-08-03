@@ -21,8 +21,8 @@
 
 
 ## 開発環境
-Xcode 16.4
-macOS Sequoia
+- Xcode 16.4
+- macOS Sequoia
 
 ---
 
